@@ -1,0 +1,7 @@
+flet
+speechRecognition
+PyAudio
+setuptools
+sqlite3
+functools
+urllib
