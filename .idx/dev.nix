@@ -6,7 +6,10 @@
 
   packages = [
     pkgs.python3
-    pkgs.jdk20
+    pkgs.python311Packages.pip
+    pkgs.jdk17
+    pkgs.gcc
+    
   ];
 
   # environment variables
